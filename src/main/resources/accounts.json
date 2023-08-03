@@ -1,0 +1,18 @@
+[
+	{
+		"id": 2,
+		"name": "Canvas Account",
+		"uuid": "WvAHhY5FINzq5IyRIJybGeiXyFkG3SqHUPb7jZY5",
+		"parent_account_id": 1,
+		"root_account_id": 1,
+		"default_storage_quota_mb": 500,
+		"default_user_storage_quota_mb": 50,
+		"default_group_storage_quota_mb": 50,
+		"default_time_zone": "America/Denver",
+		"sis_account_id": "123",
+		"integration_id": "123",
+		"sis_import_id": 12,
+		"lti_guid": "123",
+		"workflow_state": "active"
+	}
+]
